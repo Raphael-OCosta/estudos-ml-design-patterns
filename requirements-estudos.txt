@@ -1,0 +1,12 @@
+ipykernel
+pip
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+matplotlib
+flask
+joblib
+nbclient
+nbformat
